@@ -1,4 +1,3 @@
-  
 nome : Gerar dados
 
 em :
@@ -15,8 +14,7 @@ empregos :
       - usa : Platane / snk @ master
         id : snake-gif
         com :
-          github_user_name :GabrielaCarolinaAbellan
-
+          github_user_name : GabrielaCarolinaAbellan
           svg_out_path : dist / github-Contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
