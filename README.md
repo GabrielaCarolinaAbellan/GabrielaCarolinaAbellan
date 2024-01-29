@@ -1,6 +1,6 @@
 ## Olá, 😊
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JS
 - 😄 Pronouns:  ela/dela
 
  <div>
