@@ -3,7 +3,7 @@
 <h2>Bem vindo ao meu perfil do github</h2>
 
 - 👀 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo Java com foco no Back-End.
+- 🌱 Atualmente estou estagiando como desenvolvedora Front-End.
 - 😄 Pronomes:  ela/dela
 
  <div>
@@ -16,7 +16,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">    
+  <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Java" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">    
 </div>
   
   ##
