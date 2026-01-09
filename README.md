@@ -3,7 +3,7 @@
 <h2>Bem vindo ao meu perfil do github</h2>
 
 - 👀 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou estagiando como desenvolvedora Front-End.
+- 🌱 Atuando como desenvolvedora Front-End.
 - 😄 Pronomes:  ela/dela
 
  <div>
